@@ -47,7 +47,7 @@ const GridLayout = () => {
           <div className="flex gap-3.5 items-start">
             <div className="bg-[#151517] flex flex-col gap-[13px] p-3 sm:p-11">
               <img src={decision} alt="" className="w-fit" />
-              <p className="text-[13.06px] font-semibold">Exploring skills</p>
+              <p className="text-[13.06px] font-semibold">Decision making</p>
               <p className="font-normal text-[13.06px] leading-[17.42px]">
                 Amet minim mollit non deserunt ullamco est sit aliqua dolor do
                 amet sint. Velit officia consequat duis enim velit mollit. Amet

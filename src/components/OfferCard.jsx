@@ -7,7 +7,10 @@ const OfferCard = () => {
     >
       <div className="">
         <div className="flex flex-col gap-5 items-center text-center text-white p-10 pb-6">
-          <div className="font-normal text-[50px] leading-[100%] tracking-[0] ">
+          <div
+            className="font-normal text-[50px] leading-[100%] tracking-[0] "
+            style={{ fontFamily: "sans-serif" }}
+          >
             ₹ <span className="font-semibold"> 199</span>
           </div>
           <p className="font-normal leading-[100%] text-xl">Per head</p>
